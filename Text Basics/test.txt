@@ -1,0 +1,3 @@
+Hello, I am Monish. I have written this file through magic command.
+Nice to meet you.
+Thank You.This text is written by jupyter notebook.
